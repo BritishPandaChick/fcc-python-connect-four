@@ -1,4 +1,4 @@
-# Free Code Camp Connnect Four Game
+# Free Code Camp Connect Four Game
 Connect Four game from Learn Python by Building five Games Course. Made with Python.
 
 ## Instructions
